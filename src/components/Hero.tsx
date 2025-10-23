@@ -15,7 +15,7 @@ export const Hero = () => {
         <div className="text-center space-y-8 animate-fade-in">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-              Hi, I'm <span className="gradient-primary bg-clip-text text-transparent">Dipanshu Sehgal</span>
+              Hi, I'm <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent">Dipanshu Sehgal</span>
             </h1>
             <p className="text-2xl md:text-3xl text-muted-foreground">
               Anaplan Solution Architect
