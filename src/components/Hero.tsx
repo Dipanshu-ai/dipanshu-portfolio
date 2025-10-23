@@ -45,6 +45,16 @@ export const Hero = () => {
               <Mail className="mr-2 h-5 w-5" />
               Contact Me
             </Button>
+            <Button 
+              size="lg" 
+              variant="secondary"
+              asChild
+            >
+              <a href="/Dipanshu_Sehgal_Resume.pdf" download="Dipanshu_Sehgal_Resume.pdf">
+                <Download className="mr-2 h-5 w-5" />
+                Download My Resume
+              </a>
+            </Button>
           </div>
 
           <div className="flex items-center justify-center gap-6 pt-8">
